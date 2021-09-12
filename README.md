@@ -1,5 +1,5 @@
 # Chat App - React, Node, socket.io
-refer to https://www.pluralsight.com/guides/using-web-sockets-in-your-reactredux-app
+refer to https://www.section.io/engineering-education/creating-a-real-time-chat-app-with-react-socket-io-with-e2e-encryption/
 <br>
 <br>
 
